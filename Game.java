@@ -1,5 +1,5 @@
 import java.util.Random;
-
+//Solitaire Game written in Java
 
 //  CARD. A playing card from a standard deck but not a joker. You can't extend
 //  this class because it's FINAL.  You can't modify its instances, because its
