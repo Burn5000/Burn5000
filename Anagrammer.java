@@ -3,7 +3,7 @@ import javax.swing.RowFilter.ComparisonType;
 import java.io.FileReader;   //  Read Unicode chars from a file.
 import java.io.IOException;  //  In case there's IO trouble.
 
-
+//Anagrammer Project in Java
 class AnagramTree {
     private TreeNode root;
     private static int letters = 26;
